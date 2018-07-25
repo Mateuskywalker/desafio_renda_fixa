@@ -1,6 +1,6 @@
 ﻿ANOTACOES SOBRE A APLICACAO:
 
-	-- De Unzip no arquivo e o transfira os arquivos internos para uma pasta de mesmo nome(desafio_renda_fixa)
+	-- De Unzip no arquivo e o transfira os arquivos internos para uma pasta de mesmo nome(desafio_renda_fixa-master)
 
 	-- Banco de dados:
 		-- MongoDB - teste_db
@@ -10,7 +10,7 @@
 
 			/* Inicializando o banco de dados */ 
 		   -- Inicialize o MongoDB com o comando 'mongod' no terminal(cmd)
-		   -- No terminal(cmd) entre na pasta onde o projeto foi baixado (C:\desafio_renda_fixa, por exemplo)
+		   -- No terminal(cmd) entre na pasta onde o projeto foi baixado (C:\desafio_renda_fixa-master, por exemplo)
 		   -- Para importar a collection: mongorestore --port <numero da porta> <backup_mongodb>
 		   -- Digite o comando: 'mongod' no terminal para inicializar o banco de dados MongoDB
 			
