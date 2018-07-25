@@ -8,6 +8,8 @@ CORS(app)
 cors = CORS(app, resources={r"/api/*": {"origins": "*"}})
 
 app.config['MONGO_DBNAME'] = 'teste_db'
+
+# a URI pode variar de acordo com o pc. Verifique sua URI quando iniciar o banco
 app.config['MONGO_URI'] = 'mongodb://127.0.0.1:27017/teste_db'
 
 mongo = PyMongo(app)
