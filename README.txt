@@ -27,4 +27,5 @@
 	-- FrontEnd com Angular:
 		-- Entre na pasta <frontend_angular/aplicacao>
 		-- (Com o node instalado) rode o comando <npm install> para instalar as dependencias
-		-- Para inicializar a aplicacação Angular, rode o comando 'ng serve'(no terminal).-- Necessário, também, ter o Angular CLI instalado(npm install -g @agular/cli) 
+		-- Necessário, também, ter o Angular CLI instalado(npm install -g @agular/cli) 
+		-- Para inicializar a aplicacação Angular, rode o comando 'ng serve'(no terminal).
