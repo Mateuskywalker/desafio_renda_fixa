@@ -1,4 +1,4 @@
-ANOTACOES SOBRE A APLICACAO:
+﻿ANOTACOES SOBRE A APLICACAO:
 
 	-- De Unzip no arquivo e o transfira os arquivos internos para uma pasta de mesmo nome(desafio_renda_fixa)
 
@@ -21,6 +21,8 @@ ANOTACOES SOBRE A APLICACAO:
 
 			-- No terminal(cmd), entre na pasta: 'servidor_flask'
 			-- Digite o comando: 'python app.py' 
+
+		-- Necessário instalar(pip): flask-pymongo, flask-cors
 
 	-- FrontEnd com Angular:
 		-- Entre na pasta <frontend_angular/aplicacao>
